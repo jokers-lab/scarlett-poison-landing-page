@@ -18,8 +18,8 @@ body {
 }
 
 .text-bottom {
-  font-size: 1rem;
-  /* font-weight: 600; */
+  font-size: 0.75rem;
+  font-weight: 600;
   color: #ffffff;
   width: 100%;
   text-align: center;

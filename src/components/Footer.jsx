@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <div className="footer-base">
-      <p className="text-bottom">Powered by Candy Factory Group</p>
+      <p className="text-bottom">Powered by Candy Factory - Cyber Lab</p>
     </div>
   );
 };
